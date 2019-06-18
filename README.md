@@ -1,2 +1,2 @@
 # Jobs-skills
-This project depicts how the jobs skills and requirements are evaluated.
+This project depict how the jobs skills and requirements are evaluated.
